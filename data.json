@@ -5,6 +5,12 @@
             "Title": "Article 1",
             "ShortDescription": "This is a short description of article 1",
             "Content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A diam maecenas sed enim ut. Odio facilisis mauris sit amet massa vitae. Aliquet risus feugiat in ante metus. Mauris in aliquam sem fringilla ut morbi tincidunt. Orci ac auctor augue mauris augue neque gravida in fermentum. Amet purus gravida quis blandit. Tellus orci ac auctor augue mauris augue neque gravida in. Fames ac turpis egestas integer eget aliquet nibh praesent tristique. Ipsum suspendisse ultrices gravida dictum. Cursus turpis massa tincidunt dui ut ornare. Viverra suspendisse potenti nullam ac."
+        },
+        {
+            "Id": 2,
+            "Title": "Article 2",
+            "ShortDescription": "This is a short description of article 2",
+            "Content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A diam maecenas sed enim ut. Odio facilisis mauris sit amet massa vitae. Aliquet risus feugiat in ante metus. Mauris in aliquam sem fringilla ut morbi tincidunt. Orci ac auctor augue mauris augue neque gravida in fermentum. Amet purus gravida quis blandit. Tellus orci ac auctor augue mauris augue neque gravida in. Fames ac turpis egestas integer eget aliquet nibh praesent tristique. Ipsum suspendisse ultrices gravida dictum. Cursus turpis massa tincidunt dui ut ornare. Viverra suspendisse potenti nullam ac."
         }
     ]
 }
